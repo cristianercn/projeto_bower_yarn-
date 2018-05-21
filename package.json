@@ -1,0 +1,7 @@
+{
+  "name": "bower_yarn",
+  "private": true,
+  "dependencies": {
+    "notifyjs": "^3.0.0"
+  }
+}
